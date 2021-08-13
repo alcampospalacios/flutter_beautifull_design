@@ -109,14 +109,6 @@ class _CardTable extends StatelessWidget {
           _singleCard(Icons.add, Colors.indigoAccent, 'Adiciona'),
           _singleCard(Icons.delete, Colors.red, 'ELiminar'),
         ]),
-        TableRow(children: [
-          _singleCard(Icons.add, Colors.indigoAccent, 'Adiciona'),
-          _singleCard(Icons.delete, Colors.red, 'ELiminar'),
-        ]),
-        TableRow(children: [
-          _singleCard(Icons.add, Colors.indigoAccent, 'Adiciona'),
-          _singleCard(Icons.delete, Colors.red, 'ELiminar'),
-        ]),
       ],
     );
   }
